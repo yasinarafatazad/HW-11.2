@@ -73,8 +73,8 @@ a{
 }
 .logo img{
     position: absolute;
-    top: 40%;
-    left: 0;
+
+
     transform: translateY(-60%)
 }
 
